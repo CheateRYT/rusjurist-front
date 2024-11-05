@@ -29,7 +29,7 @@ const Header = () => {
 					</div>
 				</div>
 			</header>
-			<div className='bg-blue-600 h-0.5 w-full' /> {/* Синяя полоска */}
+			<div className='bg-blue-600 h-0.5 w-full' />
 			<nav className='container mx-auto pt-2 pb-4 font-bold'>
 				<ul className='flex justify-between'>
 					<li>

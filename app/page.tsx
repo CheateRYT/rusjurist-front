@@ -1,6 +1,6 @@
 'use client'
 
-import Header from './src/entities/Header'
+import Header from './src/entities/Header/Header'
 
 const Page = () => {
 	return (
